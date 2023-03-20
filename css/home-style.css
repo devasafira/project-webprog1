@@ -116,20 +116,20 @@ nav{
   /* each slide backgound color */  
   
   .slide1 {
-    background:url(aset/kue1.jpg), rgba(0, 0, 0, 0.521);
+    background:url(project-webprog1/aset/kue1.jpg), rgba(0, 0, 0, 0.521);
     background-blend-mode: soft-light;
     background-position: center;
     left: 0%;
     
   }
   .slide2 {
-    background:url(aset/kue3.jpg), rgba(0, 0, 0, 0.521);
+    background:url(project-webprog1/aset/kue3.jpg), rgba(0, 0, 0, 0.521);
     background-blend-mode: soft-light;
     background-position: 65%;
     left: 100%
   }
   .slide3 {
-    background:url(aset/kue4.png), rgba(0, 0, 0, 0.6);
+    background:url(project-webprog1/aset/kue4.png), rgba(0, 0, 0, 0.6);
     background-blend-mode: soft-light;
     background-position: center;
     left: 200%
