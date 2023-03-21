@@ -116,7 +116,7 @@ nav{
   /* each slide backgound color */  
   
   .slide1 {
-    background:url(https://github.com/devasafira/project-webprog1/blob/master/aset/kue1.jpeg), rgba(0, 0, 0, 0.521);
+    background:url('https://github.com/devasafira/project-webprog1/blob/master/aset/kue1.jpeg'), rgba(0, 0, 0, 0.521);
     background-blend-mode: soft-light;
     background-position: center;
     left: 0%;
